@@ -1,5 +1,5 @@
 import trim from "trim";
 
 export function getPrefix(input: string): string {
-  return trim("PrefixFromSubModule__" + input);
+  return "PrefixFromSubModule__" + trim(input);
 }
