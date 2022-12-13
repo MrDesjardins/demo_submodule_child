@@ -1,0 +1,1 @@
+This [repository](https://github.com/MrDesjardins/demo_submodule_child) is a submodule to be consumed by a [parent repository](https://github.com/MrDesjardins/demo_submodule_parent) repository.
