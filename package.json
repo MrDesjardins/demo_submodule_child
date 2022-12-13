@@ -1,5 +1,14 @@
 {
+  "scripts": {
+    "build": "npx tsc"
+  },
   "devDependencies": {
+    "@types/trim": "^0.1.1",
+    "install": "^0.13.0",
+    "npm": "^9.2.0",
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "trim": "^1.0.1"
   }
 }
